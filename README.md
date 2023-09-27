@@ -20,7 +20,7 @@ The singly linked list is modified to a doubly linked list. Then, 200 random int
 
 An input text file with a group of integers has to be opened and read. Then, an array has to be created based on these integers, where the first integer dictates the size of the array and the number of integers to be read into an array called data[]. Then, these array elements must be processed to compute their average as double and their maximum value as int. Finally, all the output result has to be shown on the screen and printed in a file named answer-hw3.
 
-## Week 4 Honor: Binary Tree
+## Week 4 Honor assignment: Binary Tree
 
 An input text file with a group of integers has to be opened and read. Then, an array has to be created based on these integers, where the first integer dictates the array size and number of integers to be read into an array called data[]. An algorithm has to be designed to place these values into a binary tree structure, and then, it prints the binary tree content by walking the tree "inorder".
 
