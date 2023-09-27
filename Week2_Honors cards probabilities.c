@@ -1,8 +1,9 @@
+//References
 // https://www.wsop.com/poker-hands/
 //https://stackoverflow.com/questions/61029508/how-do-i-compare-an-element-of-array-in-c-c
 //https://codeforwin.org/2015/07/c-program-to-delete-element-from-array.html   Delete array elements to conduct pair count
 
-// created by Saqr Thabet
+// Created by Saqr Thabet
 // 26-Jan-2023 Chengdu
 
 #include <stdio.h>

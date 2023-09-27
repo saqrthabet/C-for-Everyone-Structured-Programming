@@ -1,7 +1,7 @@
-//Reference
+//References
 //https://www.programiz.com/dsa/doubly-linked-list
 
-// created by Saqr Thabet
+// Created by Saqr Thabet
 // 16-Sep-2023 Sydney
 
 #include <stdio.h>

@@ -1,5 +1,5 @@
 
-// created by Saqr Thabet
+// Created by Saqr Thabet
 // 20-Feb-2023 Chengdu
 
 #include <stdio.h>
